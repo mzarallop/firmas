@@ -161,3 +161,35 @@
         </div>
 
 </p>
+
+<p>
+
+    <div>
+        <table style="font-family: monospace;" width="600">
+            <tbody><tr>
+                <td width="150" style="text-align:right;
+    ">
+                    <img src="https://edutech.cl/wp-content/uploads/2023/06/edutech_mjesus_1x_ejecutivo_.png" alt="María Jesus Vasquez" style="width: 150px;">
+                </td>
+           
+                <td style="vertical-align: top;" width="300">
+                   <div style="padding-left: 15px;">
+                        <div style="font-size: 18px; font-weight: bold;">María Jesús Vasquez</div>
+                        <div>👨‍💻 Asesor de Proyectos</div>
+                        <div>Fono: 
+                            <a href="https://api.whatsapp.com/send/?phone=%2B56992422607&amp;text=Hola+María%20Jesús+%20quiero+saber+m%C3%A1s+de+tus+productos%21%0A&amp;type=phone_number&amp;app_absent=0">📱 +56992422607</a> - 
+                            <a href="tel:+56442082110"> 📞+56442082110 Anexo 109 </a>
+                        </div>
+                        <div>
+                            <a href="mailto:josedith.perez@edutech.cl"> 📧 josedith.perez@edutech.cl</a>
+                        </div>
+                        <div class="reunion">
+                            <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ26USxitHzjCGInEdkItrM1h9N9_z_gEdkAOqFj8hJzHw3UTZxjxdJWkqARAwA0d_4CZRG9mEva?gv=true"> 📅 Para agendar una llamada presiona aquí</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+        </div>
+
+</p>
